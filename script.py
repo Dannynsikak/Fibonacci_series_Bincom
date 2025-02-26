@@ -95,12 +95,12 @@ def delete_task(task_id):
         print(f"🗑️ Task {task_id} Deleted")
 
 # initialize the Todo table
-create_table()
+#create_table()
 
 # usage of the Todo list functions
-add_task("Oh baby i think i wanna marry you.")
+#add_task("Completed assignment.")
 #add_task("Read a book")
 #add_task("Update the book")
-get_tasks() # to view all the tasks
+#get_tasks() # to view all the tasks
 #update_task(18, True) # update task ID 18 
 #get_tasks() # view updated tasks
